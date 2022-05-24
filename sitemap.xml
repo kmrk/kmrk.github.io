@@ -3,7 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kmrk.github.io/</loc>
+    <lastmod>2022-05-24T11:50:36+08:00</lastmod>
+  </url><url>
+    <loc>http://kmrk.github.io/post/</loc>
+    <lastmod>2022-05-24T11:50:36+08:00</lastmod>
   </url><url>
     <loc>http://kmrk.github.io/tags/</loc>
+    <lastmod>2022-05-24T11:50:36+08:00</lastmod>
+  </url><url>
+    <loc>http://kmrk.github.io/tags/windows/</loc>
+    <lastmod>2022-05-24T11:50:36+08:00</lastmod>
+  </url><url>
+    <loc>http://kmrk.github.io/tags/wsl/</loc>
+    <lastmod>2022-05-24T11:50:36+08:00</lastmod>
+  </url><url>
+    <loc>http://kmrk.github.io/post/wsl-basic/</loc>
+    <lastmod>2022-05-24T11:50:36+08:00</lastmod>
   </url>
 </urlset>
